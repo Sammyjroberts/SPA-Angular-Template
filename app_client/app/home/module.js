@@ -9,7 +9,48 @@ angular.module('app.home', ['ui.router'])
                 url: "/home",
                 views: {
                     "content@app": {
-                        template: '<div><h1>Hello World</h1></div>',
+                        template: `
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        <div><h1>Hello World</h1></div>
+                        
+                        `,
                         controller: "homeCtrl"
                     }
                 }
